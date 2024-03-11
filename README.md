@@ -1,17 +1,19 @@
 ## Daily UI 1-100
 
+- Source: [dailyui.co/](http://www.dailyui.co/)
+
 ### Challenges
 
-1. [ ] Sign Up
-2. [ ] Credit Card Checkout 
-3. [ ] Landing Page (above the fold) 
-4. [ ] Calculator 
-5. [ ] App Icon 
-6. [ ] User Profile 
-7. [ ] Settings 
-8. [ ] 404 page
-9. [ ] Music Player
-10. [ ] Social Share
+1. [x] Sign Up  ⭢  [Dribbble]()  |  [Figma]()
+2. [ ] Credit Card Checkout
+3. [ ] Landing Page (above the fold)  
+4. [ ] Calculator  
+5. [ ] App Icon  
+6. [ ] User Profile  
+7. [ ] Settings  
+8. [ ] 404 page 
+9. [ ] Music Player 
+10. [ ] Social Share 
 11. [ ] Flash Message (Error/Success) 
 12. [ ] E-Commerce Shop (Single Item)
 13. [ ] Direct Messaging
