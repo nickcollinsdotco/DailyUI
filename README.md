@@ -5,7 +5,7 @@
 ### Challenges
 
 1. [x] Sign Up  ⭢  [Dribbble](https://dribbble.com/shots/23807558-Modifica-Signup-001) | [Figma](https://www.figma.com/community/file/1349126909959911873/dailyui-001-signup)
-2. [ ] Credit Card Checkout
+2. [x] Credit Card Checkout ⭢  [Dribbble](https://dribbble.com/shots/23807558-Modifica-Signup-001) | [Figma](https://www.figma.com/community/file/1349126909959911873/dailyui-001-signup)
 3. [ ] Landing Page (above the fold)  
 4. [ ] Calculator  
 5. [ ] App Icon  
