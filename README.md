@@ -9,23 +9,23 @@
 2. [x] Credit Card Checkout ⭢  [Dribbble](https://dribbble.com/shots/23810524-Ledger-Checkout-002) | [Figma](https://www.figma.com/community/file/1349309629789486214/credit-card-checkout-002-dailyui)
 3. [x] Landing Page (above the fold)  ⭢  [Dribbble](https://dribbble.com/shots/23835075-Muso-Landing-Page-003) | [Figma](https://www.figma.com/community/file/1350607963652281530/muso-landing-page-003) 
 4. [x] Calculator   ⭢  [Dribbble](https://dribbble.com/shots/24038603-Electronic-Calculator-Co-004) | [Figma](https://www.figma.com/community/file/1364173357678768122/electronic-calculator-co-004)
-5. [ ] App Icon
-6. [ ] User Profile  
-7. [ ] Settings  
-8. [ ] 404 page
-9. [ ] Music Player 
-10. [ ] Social Share 
-11. [ ] Flash Message (Error/Success) 
-12. [ ] E-Commerce Shop (Single Item)
-13. [ ] Direct Messaging
-14. [ ] Countdown Timer
-15. [ ] On/Off Switch
-16. [ ] Pop-Up / Overlay
-17. [ ] Email Receipt
-18. [ ] Analytics Chart
-19. [ ] Leaderboard
-20. [ ] Location Tracker
-21. [ ] Home Monitoring Dashboard
+5. [x] App Icon    ⭢  [Dribbble](https://dribbble.com/shots/24042755-Orbital-Propulsion-Lab-005) | [Figma](https://www.figma.com/community/file/1364205856108219425/orbital-propulsion-lab-005)
+6. [ ] User Profile    ⭢  [Dribbble]() | [Figma]()  
+7. [ ] Settings    ⭢  [Dribbble]() | [Figma]()  
+8. [ ] 404 page    ⭢  [Dribbble]() | [Figma]()
+9. [ ] Music Player    ⭢  [Dribbble]() | [Figma]() 
+10. [ ] Social Share    ⭢  [Dribbble]() | [Figma]() 
+11. [ ] Flash Message (Error/Success)    ⭢  [Dribbble]() | [Figma]() 
+12. [ ] E-Commerce Shop (Single Item)    ⭢  [Dribbble]() | [Figma]()
+13. [ ] Direct Messaging    ⭢  [Dribbble]() | [Figma]()
+14. [ ] Countdown Timer    ⭢  [Dribbble]() | [Figma]()
+15. [ ] On/Off Switch    ⭢  [Dribbble]() | [Figma]()
+16. [ ] Pop-Up / Overlay    ⭢  [Dribbble]() | [Figma]()
+17. [ ] Email Receipt    ⭢  [Dribbble]() | [Figma]()
+18. [ ] Analytics Chart    ⭢  [Dribbble]() | [Figma]()
+19. [ ] Leaderboard    ⭢  [Dribbble]() | [Figma]()
+20. [ ] Location Tracker    ⭢  [Dribbble]() | [Figma]()
+21. [ ] Home Monitoring Dashboard    ⭢  [Dribbble]() | [Figma]()
 22. [ ] Search
 23. [ ] Onboarding
 24. [ ] Boarding Pass
