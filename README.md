@@ -8,7 +8,7 @@
 1. [x] Sign Up  ⭢  [Dribbble](https://dribbble.com/shots/23807558-Modifica-Signup-001) | [Figma](https://www.figma.com/community/file/1349126909959911873/dailyui-001-signup)
 2. [x] Credit Card Checkout ⭢  [Dribbble](https://dribbble.com/shots/23810524-Ledger-Checkout-002) | [Figma](https://www.figma.com/community/file/1349309629789486214/credit-card-checkout-002-dailyui)
 3. [x] Landing Page (above the fold)  ⭢  [Dribbble](https://dribbble.com/shots/23835075-Muso-Landing-Page-003) | [Figma](https://www.figma.com/community/file/1350607963652281530/muso-landing-page-003) 
-4. [ ] Calculator 
+4. [x] Calculator   ⭢  [Dribbble](https://dribbble.com/shots/24038603-Electronic-Calculator-Co-004) | [Figma](https://www.figma.com/community/file/1364173357678768122/electronic-calculator-co-004)
 5. [ ] App Icon
 6. [ ] User Profile  
 7. [ ] Settings  
